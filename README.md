@@ -1,6 +1,10 @@
-# flutter_luas_bangun_datar
+# flutter_luas_KALKULATOR_bangun_datar
 
 A new Flutter project.
+![image](https://github.com/zcdanny/tugas_kalkulator_flutter/assets/100658079/d2405c33-960d-4cfe-9ee2-8cc8cafac1a5)
+
+how to run :
+flutter run
 
 ## Getting Started
 
